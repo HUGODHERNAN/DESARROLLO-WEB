@@ -1,0 +1,16 @@
+Mi primera pagina web en la que aplique mis conocimientos en HTML
+conecte dos paginas internas de mi PC
+dirigiendo y volviendo (TODO LAN)
+
+0:00 - Introducción
+4:17 - Editor de texto
+6:18 - Personalizar Editor
+8:56 - Introducción a HTML
+11:14 - Formato HTML & Index
+15:32 - Etiquetas
+19:20 - Tipos de etiquetas
+21:25 - Estructura básica
+30:50 - Concepto de HTML semántico
+33:21 - Titulos
+35:04 - Parrafo y mas etiquetas de texto
+38:48 - Mas teoría de etiquetas
